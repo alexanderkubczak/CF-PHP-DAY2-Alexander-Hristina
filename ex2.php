@@ -28,7 +28,7 @@ if( isset($_POST['submit']))
 	}
 	 else 
 	{
-		echo "Please insert your Name and Surname";
+		echo "Please insert your name and surname";
 	}	
 
 }
